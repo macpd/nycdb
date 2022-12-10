@@ -14,6 +14,7 @@ Residents, lawyers, tenants, and organizers who want to use data in their strugg
 - [HPD Litigations](https://github.com/nycdb/nycdb/wiki/Dataset:-HPD-Litigations)
 - HPD Registrations
 - [HPD Complaints](https://github.com/nycdb/nycdb/wiki/Dataset:-HPD-Complaints)
+- [HPD Handyman Work Order (HWO) Charges](https://github.com/nycdb/nycdb/wiki/Dataset:-HPD-Handyman-Work-Order-(HWO)-Charges)
 - [HPD Repair and Vacate Orders](https://github.com/nycdb/nycdb/wiki/Dataset:-HPD-Vacate-Orders)
 - Department of Finance Rolling Sales
 - Department of Finance Annualized Sales
